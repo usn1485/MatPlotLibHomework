@@ -1,4 +1,5 @@
 Pyber Ridesharing Company Background
+
 Pyber is new ride sharing company imerging into the ride sharing market and competing against giant ride sharing comanies like Uber and lyft. Being a newly appointed Data Strategist of this comapny I need to offer data backed guidance on a new opportunities for market differentiation.
 
 After creating Bubble chart and few pie charts based on avaialable data here are my Obervable trends:
